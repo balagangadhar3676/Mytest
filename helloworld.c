@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  printf("hello world\n");
+  for(i=o;i<7;i++)
+    printf(" ............morning\n");
   return 0;
 }
