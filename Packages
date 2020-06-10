@@ -1,0 +1,22 @@
+Package: libugpio
+Version: 0.0.6-1
+Depends: libc
+License: LGPL-2.1+
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 4129
+Filename: libugpio_0.0.6-1_aarch64_cortex-a53.ipk
+Size: 4919
+SHA256sum: b45bc1e6df3ee7a1134a4daeff3e404186939dd1cccd8bf24e980471770b1a46
+Description:  libugpio is a library to ease the use of linux kernel's sysfs
+ gpio interface from C programs and/or other libraries.
+
+Package: helloworld
+Version: 1.7-1
+Depends: libc
+Source: feeds/packages/utils/helloworld
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 1018
+Filename: helloworld_1.7-1_aarch64_cortex-a53.ipk 
+Description:  A simple "Hello, world!" -application.
