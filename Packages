@@ -1,0 +1,35 @@
+Package: helloworld
+Version: 1.4-1
+Depends: libc
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 1022
+Filename: helloworld_1.4-1_aarch64_cortex-a53.ipk
+Size: 1723
+SHA256sum: aba8a90cb620c53656e6dc50679596be72fade67f47ac0a53d8067889e80206d
+Description:  A simple "Hello, world!" -application.
+
+Package: libugpio
+Version: 0.0.6-1
+Depends: libc
+License: LGPL-2.1+
+Section: libs
+Architecture: aarch64_cortex-a53
+Installed-Size: 4129
+Filename: libugpio_0.0.6-1_aarch64_cortex-a53.ipk
+Size: 4919
+SHA256sum: b45bc1e6df3ee7a1134a4daeff3e404186939dd1cccd8bf24e980471770b1a46
+Description:  libugpio is a library to ease the use of linux kernel's sysfs
+ gpio interface from C programs and/or other libraries.
+
+Package: lz_p0_gw
+Version: 1.3-1
+Depends: libc
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 321784
+Filename: lz_p0_gw_1.3-1_aarch64_cortex-a53.ipk
+Size: 322341
+SHA256sum: 4d38dc260d03d427a2f5a36d6492994b52c6a49c301bde3c1a41ad799c1bb3a2
+Description:  A simple "LZ Daemon with add Imei number every getV1 call " -feature.
+
