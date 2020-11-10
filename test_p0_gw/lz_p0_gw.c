@@ -15,7 +15,13 @@ void diff_fun(void)
     diff=6-5;
     printf("Total diff value is:%d\n",diff);
 }
-    
+void multiplication(void)
+{
+  int mul_result;
+  printf("Multiplication operation\n");
+  mul_result=7*7;
+  printf("Total multiplication result:%d\n",mul_result);
+}   
 main()
 {
     printf("Main Lizard Gateway Source Code\n");
