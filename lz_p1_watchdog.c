@@ -141,7 +141,7 @@ void health_check(void)
 int main()
 {
     FILE *fptr;
-    // represents a configuration
+  
     config_t cfg;
     //represents a configuration setting
     config_setting_t *gateway;
