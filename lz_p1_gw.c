@@ -423,15 +423,6 @@ int main()
     return 0;
 }
 
-/**********************************************************************************
-*
-* NAME: network_monitor
-* DESCRIPTION:
-* This function monitoring the network availability continuously
-* PARAMETERS:      Name           RW        Usage
-*                  *vargp         R
-*
-***********************************************************************************/
 void *network_monitor(void *vargp)
 {
     static long counter = 0;
